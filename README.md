@@ -1,0 +1,2 @@
+# jokar-app
+angular & ionic
